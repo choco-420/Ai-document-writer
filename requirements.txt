@@ -1,0 +1,4 @@
+langchain-ollama
+langchain-core
+python-dotenv
+python-docx
